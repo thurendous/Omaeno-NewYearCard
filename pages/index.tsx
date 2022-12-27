@@ -192,6 +192,7 @@ const Home: NextPage = () => {
                                     <a
                                         href={`https://goerli.etherscan.io/tx/${mintData?.hash}`}
                                         target="_blank"
+                                        rel="noreferrer"
                                     >
                                         Etherscan
                                     </a>{' '}
@@ -201,6 +202,7 @@ const Home: NextPage = () => {
                                     <a
                                         href={`https://testnets.opensea.io/assets/goerli/${txData?.to}/1`}
                                         target="_blank"
+                                        rel="noreferrer"
                                     >
                                         Opensea
                                     </a>
