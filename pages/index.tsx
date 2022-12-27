@@ -176,7 +176,7 @@ const Home: NextPage = () => {
                         <BackCard isCardFlipped={isMinted}>
                             <div style={{ padding: 24 }}>
                                 <Image
-                                    src="/nft.png"
+                                    src="/Omaeno-new-year-card-rabbit-2023.png"
                                     width="80"
                                     height="80"
                                     alt="Omaeno Happy New Year Card"
@@ -213,6 +213,9 @@ const Home: NextPage = () => {
                         </BackCard>
                     </FlipCard>
                 </div>
+                <a href="https://testnets.opensea.io/collection/omaenonewyearcard-bm1aduj9uy">
+                    すべての年賀状を見る
+                </a>
             </div>
         </div>
     )
