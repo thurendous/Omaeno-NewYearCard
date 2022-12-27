@@ -79,7 +79,7 @@ const Home: NextPage = () => {
                 style={{
                     border: '1px solid',
                     padding: '50px',
-                    'border-radius': '20px',
+                    borderRadius: '20px',
                 }}
             >
                 <div style={{ flex: '1 1 auto', width: '400px' }}>
