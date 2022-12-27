@@ -87,7 +87,7 @@ const Home: NextPage = () => {
                         <h1>Omaeno Happy New Year Card Minting</h1>
                         <h3>（Omaenoからの新年メッセージあり）</h3>
                         <p style={{ margin: '20px 0 24px' }}>
-                            Omaeno年賀状を{totalMinted} 個ミントした
+                            Omaeno年賀状を{totalMinted} 個ゲットした
                         </p>
                         <ConnectButton />
 
